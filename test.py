@@ -2,7 +2,7 @@
 from huggingface_hub import login
 
 # Login with your Hugging Face token
-#I will provide my token in the factsheet as it cannot be shared publicly or exposed via github.
+#Please use my token or you can create it at https://huggingface.co/
 login('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')
 
 import os
